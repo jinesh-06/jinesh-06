@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jinesh R 👋
 
-<!--
-**jinesh-06/jinesh-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & Generative AI Developer | Python | RAG | LLMs
 
-Here are some ideas to get you started:
+I'm an AI/ML student interested in building practical AI solutions
+using Machine Learning, Generative AI, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+
+- 🐍 Python
+- 🤖 Machine Learning
+- 🧠 Generative AI & LLMs
+- 🔎 RAG & Semantic Search
+- 🗄️ Databases
+- 🌐 Web & Backend Development
+- 📊 Data Structures & Algorithms
+
+### 🔭 Current Focus
+
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- LLM applications
+- AI-powered web applications
+
+### 🛠️ Projects
+
+- Cognitive Load-Aware Adaptive Learning Engine
+- Adaptive Learning System
+- AI-powered applications and experiments
+
+### 📚 Currently Learning
+
+Machine Learning • Deep Learning • Generative AI • RAG • LLMs
+
+### 🎯 Goal
+
+Building practical AI systems that solve real-world problems.
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/jinesh-06
