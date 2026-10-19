@@ -1,43 +1,48 @@
-# Hi, I'm Jinesh R 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jinesh R
+=================================================================================================================================
 
-### AI/ML & Generative AI Developer | Python | RAG | LLMs
+AI/ML Enthusiast | Generative AI & RAG Developer | Python Programmer
+--------------------------------------------------------------------
 
-I'm an AI/ML student interested in building practical AI solutions
-using Machine Learning, Generative AI, and modern web technologies.
+Hey! I'm Jinesh 👋, an Artificial Intelligence and Machine Learning student driven by curiosity about how machines learn patterns, understand data, and make intelligent decisions.
 
-### 🚀 What I Work With
+I don't want to just learn AI algorithms — I want to understand how they work, experiment with them, and build things that solve real problems. From machine learning models to Generative AI and RAG-powered applications, I enjoy turning what I learn into projects that actually work.
 
-- 🐍 Python
-- 🤖 Machine Learning
-- 🧠 Generative AI & LLMs
-- 🔎 RAG & Semantic Search
-- 🗄️ Databases
-- 🌐 Web & Backend Development
-- 📊 Data Structures & Algorithms
+I also explore web development because I believe great technology isn't just about what happens behind the model; it's about making that intelligence useful to people.
 
-### 🔭 Current Focus
+I'm constantly learning, building, testing, and improving. I'm still growing as a developer, but every project takes me one step closer to creating AI systems that make a difference.
 
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning
-- LLM applications
-- AI-powered web applications
+My philosophy: Understand the logic. Build the solution. Learn from every failure. Repeat. ⚡
 
-### 🛠️ Projects
+* 🌍  I'm based in Coimbatore, Tamil Nadu, India
+* 🖥️  See my portfolio at [My Portfolio](http://prortfolio-jinesh.vercel.app/)
+* ✉️  You can contact me at [jineshr622008@gmail.com](mailto:jineshr622008@gmail.com)
+* 🚀  I'm currently working on [Cognitive-Load-Aware Adaptive Learning Engine — exploring how learning signals can help deliver more personalized explanations.](http://adaptive-learning-system-sage.vercel.app/)
+* 🧠  I'm currently learning Machine Learning fundamentals, model evaluation, Deep Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Computer Vision.
+* 👥  I'm looking to collaborate on Interesting AI/ML projects, GenAI and RAG applications, intelligent learning systems, and Python-based projects where we can learn, build, and solve real problems together.
+* 💬  Ask me about Curiosity is my starting point; building is how I learn. 🧠 I enjoy understanding the why behind the code, experimenting with new ideas, and turning concepts into practical applications. My goal is to become an AI/ML Engineer who can build intelligent systems from the ground up — not just use existing tools, but understand the technology behind them.
 
-- Cognitive Load-Aware Adaptive Learning Engine
-- Adaptive Learning System
-- AI-powered applications and experiments
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
-### 📚 Currently Learning
+### Socials
 
-Machine Learning • Deep Learning • Generative AI • RAG • LLMs
+<p align="left"> <a href="https://www.github.com/jinesh-06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jinesh-r-979319388/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-### 🎯 Goal
+<b>My GitHub Stats</b>
 
-Building practical AI systems that solve real-world problems.
+<a href="http://www.github.com/jinesh-06"><img src="https://github-readme-stats.vercel.app/api?username=jinesh-06&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="jinesh-06's GitHub stats" /></a>
 
-### 📫 Connect With Me
+<a href="http://www.github.com/jinesh-06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jinesh-06&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/jinesh-06
+<a href="https://github.com/jinesh-06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinesh-06&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/jinesh-06/adaptive-learning-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=adaptive-learning-system&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/jinesh-06/Scheme-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=Scheme-finder&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/jinesh-06/jobsphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=jobsphere&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div>
