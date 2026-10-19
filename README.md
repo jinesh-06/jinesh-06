@@ -43,6 +43,4 @@ My philosophy: Understand the logic. Build the solution. Learn from every failur
 
 <div width="100%" align="center"><a href="https://github.com/jinesh-06/adaptive-learning-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=adaptive-learning-system&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/jinesh-06/Scheme-finder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=Scheme-finder&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/jinesh-06/jobsphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jinesh-06&repo=jobsphere&title_color=a855f7&text_color=ffffff&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div>
